@@ -3,22 +3,17 @@
     {
       "name": "capa de chuva",
       "price": "50,50",
-      "id": 5
+      "id": "5"
     },
     {
       "name": "teclado",
       "price": "110",
-      "id": 6
+      "id": "6"
     },
     {
       "name": "cadeira",
       "price": "200",
-      "id": 7
-    },
-    {
-      "id": "c009",
-      "name": "teste",
-      "price": "50"
+      "id": "7"
     },
     {
       "id": "bcaa",
@@ -26,13 +21,19 @@
       "price": "300"
     },
     {
-      "id": "6d23"
+      "id": "8d47",
+      "name": "NoteBook",
+      "price": "3000"
     },
     {
-      "id": "6750"
+      "id": "fce5",
+      "name": "Pc Gamer",
+      "price": "5000"
     },
     {
-      "id": "3f4c"
+      "id": "e5c4",
+      "name": "Mouse",
+      "price": "45"
     }
   ]
 }
